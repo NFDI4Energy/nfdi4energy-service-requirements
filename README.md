@@ -10,7 +10,7 @@ The collection was set up as part of the NFDI4Energy Working Group.
     <li>
       <a href="#content-of-this-repository">Content of this Repository</a>
       <ul>
-        <li><a href="#ho-to-look-at-the-requirements">How to look at the Requirements</a></li>
+        <li><a href="#how-to-look-at-the-requirements">How to look at the Requirements</a></li>
       </ul>
     </li>
     <li>
@@ -18,7 +18,7 @@ The collection was set up as part of the NFDI4Energy Working Group.
       <ul>
         <li><a href="#contribute-through-an-issue">Contribute through an Issue</a></li>
         <li><a href="#contribute-through-a-pull-request">Contribute through a Pull Request</a></li>
-        <li><a href="#contribute-through-an-email">Contribute through an E-Mail</a></li>
+        <li><a href="#contribute-through-mail">Contribute through a Mail</a></li>
       </ul>
     </li>
     <li><a href="#the-metadata-schema">The Metadata Schema</a></li>
@@ -85,7 +85,7 @@ It consists of the following steps:
 5. Pushing the changes
 6. Submitting a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-### Contribute through an E-Mail
+### Contribute through Mail
 >[!NOTE]
 >No GitHub Account is needed for this Contribution Method.
 
