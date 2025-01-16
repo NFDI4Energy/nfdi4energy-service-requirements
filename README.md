@@ -51,7 +51,8 @@ You can download it, by clicking on it in te repository and the clicking the dow
 
 ## How to contribute
 
-[!IMPORTANT]Anybody that has Requirements is encouraged to contribute to this collection, regardless if they are affiliated with NFDI4Energy or not.
+>[!IMPORTANT]
+>Anybody that has Requirements is encouraged to contribute to this collection, regardless if they are affiliated with NFDI4Energy or not.
 
 To add Requirements to this collection there are three possible ways, which will be explained in the following sections. The only method not requiring a Github account is found in <a href="#contribute-through-an-email">Contribute through an E-Mail</a>.
 
@@ -59,7 +60,8 @@ The Reqirments must follow the [Meadata Schema](#the-metadata-schema), there are
 
 ### Contribute through an Issue
 
-[!NOTE]A GitHub Account is needed for this Contribution Method.
+>[!NOTE]
+>A GitHub Account is needed for this Contribution Method.
 
 This is the preffered method for adding a requirement into the collection and recommended for people not familiar with using git or csv files.
 This method consists of an issue being opened that contains the relevant requirement information. We have devised a special issue template, that will make adding the requirement easier.
@@ -70,7 +72,8 @@ Some Screenshots describing this process can be seen in the following.
 
 ### Contribute through a Pull Request
 
-[!NOTE]A GitHub Account is needed for this Contribution Method.
+>[!NOTE]
+>A GitHub Account is needed for this Contribution Method.
 
 This is a secondary method for adding requirements, it is for users that are familiar with using git.
 It consists of the following steps:
@@ -83,7 +86,8 @@ It consists of the following steps:
 6. Submitting a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ### Contribute through an E-Mail
-[!NOTE]No GitHub Account is needed for this Contribution Method.
+>[!NOTE]
+>No GitHub Account is needed for this Contribution Method.
 
 If you do not want to use GitHub, you can still submit a requirement via E-Mail.
 Please get in touch with us through the following Mail:
@@ -91,7 +95,8 @@ Please get in touch with us through the following Mail:
 
 ## The Metadata Schema
 
-The Metadata Schema can be found in the [Metadata Schema.md](Metadata Schema.md).
+The Metadata Schema can be found in the [Metadata Schema.md](Metadata&#32;Schema.md).
 The different fields are also explained in the Markdown file.
 
-[!WARNING]Keep in mind, that some of the fields are optional, whil other are not. A requirement is only accepted when all required fields are filled in.
+>[!WARNING]
+>Keep in mind, that some of the fields are optional, whil other are not. A requirement is only accepted when all required fields are filled in.
