@@ -1,4 +1,5 @@
 site_name: NFDI4Energy Requirements
+site_url: https://NFDI4Energy.github.io/nfdi4energy-service-redquirements/
 theme:
   name: material
   favicon: assets/images/nfdi4energy_icon_rgb_small.png
