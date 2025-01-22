@@ -28,26 +28,27 @@ The collection was set up as part of the NFDI4Energy Working Group.
 ## Content of this Repository
 
 The requirements are listed in a single *.csv* file inside this repository. 
-Two other important files are this ReadMe.MD file, containing the information you are reading right now,
-as well as the Metadata.MD file, that lists the Metadata Schema we use.
+Two other important files are this README.md file, containing the information you are reading right now,
+as well as the [Metadata Schema.md](Metadata&#32;Schema.md) file, that lists the Metadata Schema we use.
 
 The rest of the files in this repository are used to create a Website that can be used to look at the Requirements.
 
 ### How to look at the Requirements
 
 To look through the requirements there are two options.
-You can go to this website [link website]. The site was built using [GitHub Pages](https://pages.github.com/). It should look like this:
+You can go to this [website](https://nfdi4energy.github.io/nfdi4energy-service-requirements/requirements-table/). The site was built using [GitHub Pages](https://pages.github.com/). It should look like this:
 
-[Add Picture]
+
+![Screenshot of the Requirements Website with example test data](/photos/Screenshot_Website.png?raw=true "Screenshot of the Website with Example Data")
 
 On this website you can see a interactive table, this table can be sorted according to the different columns and also searched throuh the search bar.
 
 Another way to look through the requirements is by downloading the .csv file and opening it locally on your computer.
 The file can be opened by any current spreadsheet software such as [Libre Office Calc](https://de.libreoffice.org/discover/calc/) or [Microsoft Excel](https://www.microsoft.com/de-de/microsoft-365/excel?market=de).
 
-You can download it, by clicking on it in te repository and the clicking the download button.
+You can download it, by clicking on it in the repository and the clicking the download button.
 
-[Add pictures]
+![Screenshot of the Requirements csv in github with arrow to the download button](/photos/Screenshot_Github_Download.png?raw=true "Screenshot of the Github page of the csv")
 
 ## How to contribute
 
