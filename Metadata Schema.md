@@ -1,7 +1,7 @@
 # Metadata Schema Requirements
 
-[!NOTE]
-This File contains the Metadata Schema used for this Requirements collection. If there are any Questions please get in touch with us.
+>[!NOTE]
+>This File contains the Metadata Schema used for this Requirements collection. If there are any Questions please get in touch with us.
 
 | Field                   | Description                                                                                                                                 | Example                                                                                              | Required | Notes                       | DC Terms Equivalent                    |  |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------|-----------------------------|-----------------------------------------|--|
