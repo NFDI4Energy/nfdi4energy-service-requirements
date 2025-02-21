@@ -55,13 +55,13 @@ hide:
                     searchPanes: {
                         show: true
                     },
-                    targets: [2,3,4,6]
+                    targets: [6,7,10,11]
                 },
                 {
                     searchPanes: {
                         show: false
                     },
-                    targets: [0,1,5,7,8]
+                    targets: [0,1,2,3,4,5,8,9,12,13]
                 }
             ],
             // allows to print groupings in the table
