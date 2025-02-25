@@ -58,7 +58,7 @@ body:
     attributes:
       label: Creator
       description: The Name of the person or ORCID that wrote the Requirement ([DCMI Metadata Terms](http://purl.org/dc/terms/creator)). E.g. Alexandro Steinert.
-      placeholder: E.g. Alexandro Steinert
+      placeholder: E.g. Max Mustermann
     validations:
       required: true
   - type: input
@@ -116,14 +116,14 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: Priority
+    id: Benefit
     attributes:
-      label: Priority of Requirement
-      description: Three options Mandatory, Recommended, Optional
+      label: Benefit of Requirement.
+      description: Benefit for the Community. This is a preliminary Estimation. Three options High, Medium, Low
       options:
-        - Mandatory
-        - Recommended
-        - Optional
+        - High
+        - Medium
+        - Low
       default: 0
     validations:
       required: true
@@ -135,3 +135,4 @@ body:
       placeholder: E.g. email@example.com
     validations:
       required: false
+  

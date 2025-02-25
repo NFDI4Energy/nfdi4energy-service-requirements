@@ -6,4 +6,4 @@ This documentation contains an accessible list of requirements for certain servi
 
 ## This documentation renders all requirements to a table
 
-You can check our table of requirements [here](requirements-table.md).
+You can check our table of requirements under the requirements schema tab.

@@ -25,5 +25,5 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material
-      - run: cp requirements.csv docs/assets/table.csv
+      - run: cp requirements/requirements.csv docs/content/requirements.csv
       - run: mkdocs gh-deploy --force
