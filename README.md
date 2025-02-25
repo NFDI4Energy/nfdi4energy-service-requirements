@@ -36,7 +36,7 @@ The rest of the files in this repository are used to create a Website that can b
 ### How to look at the Requirements
 
 To look through the requirements there are two options.
-You can go to this [website](TODO LINK). The site was built using [GitHub Pages](https://pages.github.com/). It should look like this:
+You can go to this [website](https://nfdi4energy.github.io/nfdi4energy-service-requirements/content/requirements-table/). The site was built using [GitHub Pages](https://pages.github.com/). It should look like this:
 
 
 ![Screenshot of the Requirements Website with example test data](/docs/img/Screenshot_Website.png?raw=true "Screenshot of the Website with Example Data")
